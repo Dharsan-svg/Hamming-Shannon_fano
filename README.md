@@ -1,5 +1,5 @@
-# Annuncio M
-# 21224060021
+# Dharsan muthu ganesh G
+# 212223060047
 # Huffman-Shannon_fano
 # Aim:
 Consider a discrete memoryless source with symbols and statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} for its output. 
